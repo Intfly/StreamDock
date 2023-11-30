@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\valen\Documents\code\Visual Studio\zbeulc\main.cpp(315,27): warning C4018: '<=' : incompatibilité signed/unsigned
+  zbeulc.vcxproj -> C:\Users\valen\Documents\code\Visual Studio\zbeulc\Debug\zbeulc.exe
